@@ -4,5 +4,9 @@
 
 ### clone
 
-  git clone 
+  git clone https://github.com/jongvvon/opensource.git
 
+### Directory
+> jongvvon / opensource
+> > doc
+> > src
